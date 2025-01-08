@@ -52,7 +52,7 @@
 
 ###
 
-<p align="left">Github Stats</p>
+<h2 align="left">Github Stats</h2>
 
 ###
 
