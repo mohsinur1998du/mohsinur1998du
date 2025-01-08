@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">Connect With me</p>
+<h3 align="left">Connect With me</h3>
 
 ###
 
